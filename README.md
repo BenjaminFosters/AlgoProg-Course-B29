@@ -8,6 +8,7 @@ An artifact of the **Algorithm and Programming**  at BINUS University - Malang C
 - **Institution**: BINUS University
 - **Campus**: Malang Campus (B29)
 - **Course**: Algorithm and Programming
+- **Semester/Academic Year**: Odd Semester (2025/2026)
 
 ## Disclaimer
 
